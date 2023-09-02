@@ -25,6 +25,7 @@ It allows users to actively contribute by answering questions posed by others.<b
 * Pyhon
 * HTML
 * CSS
+* JavaScript
 <br>
 
 ## **How to install and run the project:**
