@@ -29,3 +29,16 @@ It allows users to actively contribute by answering questions posed by others.<b
 <br>
 
 ## **How to install and run the project:**
+Initially create a virtual environment,<br>
+Command : virtualenv virtual_env_name <br>
+
+Activate the virtual environment, <br>
+Command : cd venv/Scripts/activate <br>
+
+Now install Django, <br>
+Command : pip install django <br>
+
+Outside the virtual environment, in the main directory start the project, <br>
+Command : django-admin startproject project_name <br>
+
+Now your project has been created. Create apps inside this project as your requirement.
